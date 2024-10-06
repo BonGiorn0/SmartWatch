@@ -1,0 +1,5 @@
+../Core/Src/CircularBuffer.c:3:6:circ_buffer_init	16	static
+../Core/Src/CircularBuffer.c:8:5:circ_buffer_is_empty	16	static
+../Core/Src/CircularBuffer.c:12:5:circ_buffer_is_full	16	static
+../Core/Src/CircularBuffer.c:16:6:circ_buffer_put	16	static
+../Core/Src/CircularBuffer.c:23:6:circ_buffer_get	16	static

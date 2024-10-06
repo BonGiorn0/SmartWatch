@@ -1,0 +1,6 @@
+../Core/Src/lsm6d3s.c:3:13:LSM6DS3_I2C_Write	32	static
+../Core/Src/lsm6d3s.c:7:13:LSM6DS3_I2C_Read	32	static
+../Core/Src/lsm6d3s.c:11:6:LSM6DS3_Init	16	static
+../Core/Src/lsm6d3s.c:26:6:LSM6DS3_WhoAmI	16	static
+../Core/Src/lsm6d3s.c:30:6:LSM6DS3_AccGetRawXYZ	24	static
+../Core/Src/lsm6d3s.c:47:6:LSM6DS3_AccGetXYZ	40	static

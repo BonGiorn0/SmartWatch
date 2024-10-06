@@ -1,0 +1,2 @@
+../Core/Src/dial.c:17:6:drawClockDial	24	static
+../Core/Src/dial.c:23:6:redrawClockHands	72	static

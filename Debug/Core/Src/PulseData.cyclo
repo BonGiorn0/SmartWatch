@@ -1,0 +1,4 @@
+../Core/Inc/assets.h:27:6:imagify	2
+../Core/Src/PulseData.c:15:6:drawPulseGraphDot	3
+../Core/Src/PulseData.c:40:6:drawHeart	1
+../Core/Src/PulseData.c:47:6:drawBPM	3
